@@ -19,7 +19,6 @@ A curated list of vision transformer related resources. Please feel free to [pul
 |  Title  |   Venue  |   BibTeX  |
 |:--------|:--------:|:--------:|
 | [A Survey on Visual Transformer](https://arxiv.org/pdf/2012.12556.pdf) | ArXiv | [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:Aj10Crv7DScJ:scholar.google.com/&output=citation&scisdr=CgUmooQTEM3KnAOogfQ:AAGBfm0AAAAAX_-tmfT1yhaAeO62lS61HGcSpcXSUqJ5&scisig=AAGBfm0AAAAAX_-tmQAIcm-VKBRqnb9iTs8Sghq-6ssB&scisf=4&ct=citation&cd=-1&hl=ja)
-
 |[Intriguing Properties of Vision Transformers](https://arxiv.org/pdf/2105.10497.pdf)| ArXiv|[Code](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)
 
 ## Transformer in Vision
