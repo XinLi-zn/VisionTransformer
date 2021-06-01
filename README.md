@@ -34,6 +34,7 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[ResT: An Efficient Transformer for Visual Recognition](https://arxiv.org/pdf/2105.13677.pdf)|ArXiv|Reg|[GitHub](https://github.com/wofmanaf/ResT)|--|
 |[Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/pdf/2105.15075)|ArXiv|Other|--|--|
 |[SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers](https://arxiv.org/pdf/2105.15203.pdf)|ArXiv|Seg|--|--|
 |[Aggregating Nested Transformers](https://arxiv.org/pdf/2105.12723.pdf)|ArXiv|Other|--|--|
