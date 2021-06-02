@@ -34,7 +34,6 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-
 |[TransVOS: Video Object Segmentation with Transformers](https://arxiv.org/pdf/2106.00588.pdf)|ArXiv|Seg|--|--|
 |[You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://arxiv.org/pdf/2106.00666.pdf)|ArXiv|Det|[GitHub](https://github.com/hustvl/YOLOS)|--|
 |[ResT: An Efficient Transformer for Visual Recognition](https://arxiv.org/pdf/2105.13677.pdf)|ArXiv|Reg|[GitHub](https://github.com/wofmanaf/ResT)|--|
