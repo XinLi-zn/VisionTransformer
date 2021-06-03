@@ -43,7 +43,8 @@ You can add a tag for `domains` which contains several transformer-based works
 |[SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers](https://arxiv.org/pdf/2105.15203.pdf)|ArXiv|Seg|--|--|
 |[Aggregating Nested Transformers](https://arxiv.org/pdf/2105.12723.pdf)|ArXiv|Other|--|--|
 |[End-to-End Video Object Detection with Spatial-Temporal Transformers](https://arxiv.org/pdf/2105.10920.pdf)|ArXiv|Det|[GitHub](https://github.com/SJTU-LuHe/TransVOD)|--|
-|[HOTR: End-to-End Human-Object Interaction Detection with Transformers](https://arxiv.org/pdf/2104.13682.pdf)|CVPR2021|Other|--|--|
+|[HOTR: End-to-End Human-Object Interaction Detection with Transformers](https://arxiv.org/pdf/2101.01909)|CVPR2021|Other|[GitHub](https://github.com/mlpc-ucsd/LETR)|--|
+|[Line Segment Detection Using Transformers without Edges](https://arxiv.org/pdf/2104.13682.pdf)|CVPR2021|Other|--|--|
 |[Boosting Crowd Counting with Transformers](https://arxiv.org/pdf/2105.10926.pdf)|ArXiv|Other|--|--|
 |[Points as Queries: Weakly Semi-supervised Object Detection by Points](https://arxiv.org/pdf/2104.07434.pdf)|ArXiv|Other|--|--|
 | [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/abs/2101.11986) | Arxiv | Reg | [GitHub](https://github.com/yitu-opensource/T2T-ViT) | <details> <summary>Bib</summary> <p align="left">   </br> @article{yuan2021tokens, </br> title={Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet}, </br> author={Yuan, Li and Chen, Yunpeng and Wang, Tao and Yu, Weihao and Shi, Yujun and Tay, Francis EH and Feng, Jiashi and Yan, Shuicheng}, </br> journal={arXiv preprint arXiv:2101.11986}, </br> year={2021} </br> } </p></details> </br>
