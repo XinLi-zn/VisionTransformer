@@ -34,6 +34,8 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification](https://arxiv.org/pdf/2106.02034.pdf)|ArXiv|Other|--|[GitHub](https://github.com/raoyongming/DynamicViT)|
+|[Anticipative Video Transformer](https://arxiv.org/pdf/2106.02036.pdf)|ArXiv|Other|--|[GitHub](https://facebookresearch.github.io/AVT/)|
 |[An Attention Free Transformer](https://arxiv.org/pdf/2105.14103.pdf)|ArXiv|Other|--|--|
 |[Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks](https://arxiv.org/abs/2105.02358)|ArXiv|Other|[GitHub](https://github.com/MenghaoGuo/-EANet)|--|
 |[TransVOS: Video Object Segmentation with Transformers](https://arxiv.org/pdf/2106.00588.pdf)|ArXiv|Seg|--|--|
