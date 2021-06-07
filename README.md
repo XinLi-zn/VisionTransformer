@@ -36,6 +36,9 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[Self-Supervised Learning with Swin Transformers](https://arxiv.org/pdf/2105.04553.pdf)|ArXiv|Other|--|[GitHub](https://github.com/SwinTransformer/Transformer-SSL)|
+|[Visual Grounding with Transformers](https://arxiv.org/pdf/2105.04281.pdf)|ArXiv|Other|--|--|
+|[Associating Objects with Transformers for Video Object Segmentation](https://arxiv.org/pdf/2106.02638.pdf)|ArXiv|Seg|--|[GitHub](https://github.com/z-x-yang/AOT)|
 |[When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations](https://arxiv.org/pdf/2106.01548.pdf)|ArXiv|Other|--|--|
 |[DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification](https://arxiv.org/pdf/2106.02034.pdf)|ArXiv|Other|--|[GitHub](https://github.com/raoyongming/DynamicViT)|
 |[Anticipative Video Transformer](https://arxiv.org/pdf/2106.02036.pdf)|ArXiv|Other|--|[GitHub](https://facebookresearch.github.io/AVT/)|
