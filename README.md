@@ -36,6 +36,9 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[Semantic Correspondence with Transformers](https://arxiv.org/pdf/2106.02520.pdf)|ArXiv|Other|--|[GitHub](https://github.com/SunghwanHong/CATs)|
+|[Glance-and-Gaze Vision Transformer](https://arxiv.org/pdf/2106.02277.pdf)|ArXiv|Other|--|[GitHub](https://github.com/yucornetto/GG-Transformer)|
+|[Few-Shot Segmentation via Cycle-Consistent Transformer](https://arxiv.org/pdf/2106.02320.pdf)|ArXiv|Seg|--|--|
 |[Self-Supervised Learning with Swin Transformers](https://arxiv.org/pdf/2105.04553.pdf)|ArXiv|Other|--|[GitHub](https://github.com/SwinTransformer/Transformer-SSL)|
 |[Visual Grounding with Transformers](https://arxiv.org/pdf/2105.04281.pdf)|ArXiv|Other|--|--|
 |[Associating Objects with Transformers for Video Object Segmentation](https://arxiv.org/pdf/2106.02638.pdf)|ArXiv|Seg|--|[GitHub](https://github.com/z-x-yang/AOT)|
