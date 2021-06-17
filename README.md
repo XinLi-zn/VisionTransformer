@@ -36,6 +36,7 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification](https://arxiv.org/abs/2106.02034)|ArXiv|Cls|--|[GitHub](https://github.com/raoyongming/DynamicViT)|
 |[Semantic Correspondence with Transformers](https://arxiv.org/pdf/2106.02520.pdf)|ArXiv|Other|--|[GitHub](https://github.com/SunghwanHong/CATs)|
 |[Glance-and-Gaze Vision Transformer](https://arxiv.org/pdf/2106.02277.pdf)|ArXiv|Other|--|[GitHub](https://github.com/yucornetto/GG-Transformer)|
 |[Few-Shot Segmentation via Cycle-Consistent Transformer](https://arxiv.org/pdf/2106.02320.pdf)|ArXiv|Seg|--|--|
