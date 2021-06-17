@@ -36,6 +36,8 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[Uformer: A General U-Shaped Transformer for Image Restoration](https://arxiv.org/abs/2106.03106)|ArXiv|Other|--|[GitHub](https://github.com/ZhendongWang6/Uformer)|
+|[Video Super-Resolution Transformer](https://arxiv.org/abs/2106.06847)|ArXiv|Other|--|[GitHub](https://github.com/caojiezhang/VSR-Transformer)|
 |[DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification](https://arxiv.org/abs/2106.02034)|ArXiv|Cls|--|[GitHub](https://github.com/raoyongming/DynamicViT)|
 |[Semantic Correspondence with Transformers](https://arxiv.org/pdf/2106.02520.pdf)|ArXiv|Other|--|[GitHub](https://github.com/SunghwanHong/CATs)|
 |[Glance-and-Gaze Vision Transformer](https://arxiv.org/pdf/2106.02277.pdf)|ArXiv|Other|--|[GitHub](https://github.com/yucornetto/GG-Transformer)|
