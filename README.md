@@ -36,10 +36,11 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254.pdf)|ArXiv|Cls|--|[GitHub](https://github.com/ZhendongWang6/Uformer)|
 |[XCiT: Cross-Covariance Image Transformers](https://arxiv.org/pdf/2106.09681.pdf)|ArXiv|Other|--|--|
 |[Semi-Autoregressive Transformer for Image Captioning](https://arxiv.org/pdf/2106.09436.pdf)|ArXiv|Other|--|--|
 |[Long-Short Temporal Contrastive Learning of Video Transformers](https://arxiv.org/pdf/2106.09212.pdf)|ArXiv|Other|--|--|
-|[Uformer: A General U-Shaped Transformer for Image Restoration](https://arxiv.org/abs/2106.03106)|ArXiv|Other|--|[GitHub](https://github.com/ZhendongWang6/Uformer)|
+|[Uformer: A General U-Shaped Transformer for Image Restoration](https://arxiv.org/abs/2106.03106)|ArXiv|Other|--|[GitHub](https://github.com/microsoft/unilm/tree/master/beit)|
 |[Video Super-Resolution Transformer](https://arxiv.org/abs/2106.06847)|ArXiv|Other|--|[GitHub](https://github.com/caojiezhang/VSR-Transformer)|
 |[DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification](https://arxiv.org/abs/2106.02034)|ArXiv|Cls|--|[GitHub](https://github.com/raoyongming/DynamicViT)|
 |[Semantic Correspondence with Transformers](https://arxiv.org/pdf/2106.02520.pdf)|ArXiv|Other|--|[GitHub](https://github.com/SunghwanHong/CATs)|
