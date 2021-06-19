@@ -36,6 +36,7 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[MlTr: Multi-label Classification with Transformer](https://arxiv.org/pdf/2106.06195.pdf)|ArXiv|Cls|--|[GitHub](https://github.com/starmemda/MlTr/)|
 |[Delving Deep into the Generalization of Vision Transformers under Distribution Shifts](https://arxiv.org/pdf/2106.07617.pdf)|ArXiv|Other|--|--|
 |[Improved Transformer for High-Resolution GANs](https://arxiv.org/pdf/2106.07631.pdf)|ArXiv|Other|--|--|
 |[BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254.pdf)|ArXiv|Cls|--|[GitHub](https://github.com/ZhendongWang6/Uformer)|
