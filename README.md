@@ -36,7 +36,8 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|[An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057)|ArXiv|Other|--|--|
+|[OadTR: Online Action Detection with Transformers](https://arxiv.org/pdf/2106.11149.pdf)|CVPRW|Det|--|--|
+|[An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057)|ArXiv|Other|--|[GitHub](https://github.com/wangxiang1230/OadTR)|
 |[End-to-end Temporal Action Detection with Transformer](https://arxiv.org/pdf/2106.10271.pdf)|ArXiv|Cls|--|[GitHub](https://github.com/xlliu7/TadTR)|
 |[MlTr: Multi-label Classification with Transformer](https://arxiv.org/pdf/2106.06195.pdf)|ArXiv|Cls|--|[GitHub](https://github.com/starmemda/MlTr/)|
 |[Delving Deep into the Generalization of Vision Transformers under Distribution Shifts](https://arxiv.org/pdf/2106.07617.pdf)|ArXiv|Other|--|--|
