@@ -36,6 +36,8 @@ You can add a tag for `domains` which contains several transformer-based works
 
 |  Title  |   Venue  |  Task  |   Code   |  BibTeX  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[Tracking Instances as Queries](https://arxiv.org/pdf/2106.11963.pdf)|arxiv|Seg|--|--|
+|[Instances as Queries](https://arxiv.org/pdf/2105.01928)|arxiv|Seg|--|[GitHub](https://github.com/hustvl/QueryInst)|
 |[OadTR: Online Action Detection with Transformers](https://arxiv.org/pdf/2106.11149.pdf)|CVPRW|Det|--|[GitHub](https://github.com/wangxiang1230/OadTR)|
 |[An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.02057)|ArXiv|Other|--|--|
 |[End-to-end Temporal Action Detection with Transformer](https://arxiv.org/pdf/2106.10271.pdf)|ArXiv|Cls|--|[GitHub](https://github.com/xlliu7/TadTR)|
